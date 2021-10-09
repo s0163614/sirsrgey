@@ -1,0 +1,31 @@
+.logo {
+max-width:150px;
+float:left;
+margin:auto;
+}
+.conteiner{
+max-width: 960px;
+margin:0 auto;
+text-align:center ;
+font-size:20px ;
+}
+.fa{
+font-size: 16px;
+color:#000000;
+margin:0 auto;
+text-decoration:none;
+}
+@media screen and (min-width:768px){
+.nav {
+
+background-color:#6AB9FF;
+max-width: 960px;
+margin: 0 auto;
+}
+.menu{
+flex-direction: row;
+
+}
+.form {
+order: 2;
+}
